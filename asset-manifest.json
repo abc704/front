@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/front.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/front.git/static/js/main.1560f417.chunk.js",
+    "main.js.map": "/front.git/static/js/main.1560f417.chunk.js.map",
+    "runtime-main.js": "/front.git/static/js/runtime-main.1dda03b5.js",
+    "runtime-main.js.map": "/front.git/static/js/runtime-main.1dda03b5.js.map",
+    "static/js/2.6fb31c7f.chunk.js": "/front.git/static/js/2.6fb31c7f.chunk.js",
+    "static/js/2.6fb31c7f.chunk.js.map": "/front.git/static/js/2.6fb31c7f.chunk.js.map",
+    "index.html": "/front.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/front.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6fb31c7f.chunk.js.LICENSE.txt": "/front.git/static/js/2.6fb31c7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dda03b5.js",
+    "static/js/2.6fb31c7f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1560f417.chunk.js"
+  ]
+}
